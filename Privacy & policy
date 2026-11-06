@@ -1,72 +1,59 @@
-<!doctype html>
-<html lang="fr">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Politique de confidentialite de Sahelink.">
-  <title>Politique de confidentialite | Sahelink</title>
-  <style>
-    :root { color-scheme: light; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; }
-    body { margin: 0; color: #17352f; background: #f5f8f6; line-height: 1.65; }
-    main { max-width: 860px; margin: 0 auto; padding: 48px 22px 72px; }
-    header { margin-bottom: 36px; }
-    h1 { margin: 0 0 8px; color: #087a4b; font-size: clamp(2rem, 5vw, 3.2rem); line-height: 1.1; }
-    h2 { margin-top: 34px; color: #087a4b; font-size: 1.35rem; }
-    .updated { color: #5d706b; }
-    section { background: #fff; border: 1px solid #dce8e2; border-radius: 12px; padding: 22px 24px; margin-top: 16px; }
-    a { color: #b95714; }
-    li { margin: 7px 0; }
-    footer { margin-top: 38px; color: #5d706b; font-size: .95rem; }
-  </style>
-</head>
-<body>
-  <main>
-    <header>
-      <h1>Politique de confidentialite</h1>
-      <p class="updated">Application Sahelink · Derniere mise a jour : 6 novembre 2026</p>
-      <p>Cette politique explique quelles donnees Sahelink collecte, pourquoi elles sont utilisees, avec qui elles peuvent etre partagees et quels droits vous pouvez exercer.</p>
-    </header>
+# Politique de confidentialité Sahelink
 
-    <section>
-      <h2>1. Responsable du traitement</h2>
-      <p>Sahelink est responsable du traitement des donnees de l'application. Pour toute question relative a la confidentialite, contactez <a href="mailto:linksahel@gmail.com">linksahel@gmail.com</a>.</p>
-    </section>
-    <section>
-      <h2>2. Donnees traitees</h2>
-      <ul>
-        <li><strong>Compte :</strong> nom, adresse e-mail, identifiants d'authentification et informations necessaires a la gestion du compte.</li>
-        <li><strong>Commandes et livraison :</strong> produits commandes, montant, statut, adresse et coordonnees de livraison fournies par le client.</li>
-        <li><strong>Paiement :</strong> mode de paiement, reference de transfert et statut de paiement. Sahelink ne stocke pas les numeros complets de carte bancaire.</li>
-        <li><strong>Support et avis :</strong> messages envoyes au support, contenu des avis, notes et informations liees a la commande concernee.</li>
-        <li><strong>Donnees techniques :</strong> donnees necessaires au fonctionnement de l'application, comme les journaux d'erreur et les informations techniques transmises par la plateforme ou les services utilises.</li>
-        <li><strong>Mode local :</strong> lorsque le backend n'est pas configure, certaines donnees sont conservees localement sur l'appareil et ne sont pas envoyees a Sahelink.</li>
-      </ul>
-    </section>
-    <section>
-      <h2>3. Finalites et utilisation</h2>
-      <p>Nous utilisons ces donnees pour creer et securiser votre compte, traiter les commandes et les livraisons, confirmer les paiements, fournir le support, gerer les avis, prevenir les abus, assurer la securite et ameliorer le service.</p>
-    </section>
-    <section>
-      <h2>4. Partage avec des prestataires</h2>
-      <p>Nous ne vendons pas vos donnees personnelles. Lorsque cela est necessaire au fonctionnement du service, elles peuvent etre partagees avec Supabase pour l'authentification et l'hebergement, CinetPay pour les paiements en ligne, ainsi qu'avec les operateurs Wave, My Nita ou Amanta pour la verification manuelle des transferts.</p>
-    </section>
-    <section>
-      <h2>5. Conservation et securite</h2>
-      <p>Les donnees sont conservees pendant la duree necessaire au service, au suivi des commandes, a la resolution des litiges et au respect des obligations legales. Les donnees locales restent sur l'appareil jusqu'a leur suppression ou la desinstallation de l'application.</p>
-    </section>
-    <section>
-      <h2>6. Vos droits</h2>
-      <p>Vous pouvez demander l'acces, la rectification, la suppression, la limitation ou l'opposition au traitement de vos donnees en ecrivant a <a href="mailto:linksahel@gmail.com">linksahel@gmail.com</a>. Nous pouvons demander une verification d'identite avant de traiter la demande.</p>
-    </section>
-    <section>
-      <h2>7. Enfants</h2>
-      <p>Sahelink n'est pas destinee aux enfants et ne cherche pas a collecter volontairement leurs donnees. Contactez-nous si vous pensez qu'un enfant nous a transmis des donnees.</p>
-    </section>
-    <section>
-      <h2>8. Modifications</h2>
-      <p>Nous pouvons mettre a jour cette politique pour refleter une evolution de l'application, des services ou de la reglementation. La date de mise a jour indiquee en haut de cette page sera modifiee en consequence.</p>
-    </section>
-    <footer>Contact : <a href="mailto:linksahel@gmail.com">linksahel@gmail.com</a></footer>
-  </main>
-</body>
-</html>
+**Dernière mise à jour : 6 novembre 2026**
+
+Cette politique explique quelles données Sahelink collecte, pourquoi elles sont utilisées, avec qui elles peuvent être partagées et quels droits vous pouvez exercer.
+
+## 1. Responsable du traitement
+
+Sahelink est responsable du traitement des données de l'application.
+
+Pour toute question relative à la confidentialité, contactez [linksahel@gmail.com](mailto:linksahel@gmail.com).
+
+## 2. Données traitées
+
+- **Compte :** nom, adresse e-mail, identifiants d'authentification et informations nécessaires à la gestion du compte.
+- **Commandes et livraison :** produits commandés, montant, statut, adresse et coordonnées de livraison fournies par le client.
+- **Paiement :** mode de paiement, référence de transfert et statut de paiement. Sahelink ne stocke pas les numéros complets de carte bancaire.
+- **Support et avis :** messages envoyés au support, contenu des avis, notes et informations liées à la commande concernée.
+- **Données techniques :** données nécessaires au fonctionnement de l'application, comme les journaux d'erreur et les informations techniques transmises par la plateforme ou les services utilisés.
+- **Mode local :** lorsque le backend n'est pas configuré, certaines données sont conservées localement sur l'appareil et ne sont pas envoyées à Sahelink.
+
+## 3. Finalités et utilisation
+
+Nous utilisons ces données pour créer et sécuriser votre compte, traiter les commandes et les livraisons, confirmer les paiements, fournir le support, gérer les avis, prévenir les abus, assurer la sécurité et améliorer le service.
+
+Ces traitements sont nécessaires à l'exécution du service demandé, au respect de nos obligations et, lorsque cela s'applique, à notre intérêt légitime de sécuriser et maintenir l'application.
+
+## 4. Partage avec des prestataires
+
+Nous ne vendons pas vos données personnelles. Lorsque cela est nécessaire au fonctionnement du service, elles peuvent être partagées avec les catégories de prestataires suivantes :
+
+- **Supabase :** hébergement de la base de données, authentification et synchronisation des fonctions activées.
+- **CinetPay :** traitement et vérification d'un paiement en ligne lorsque cette option est utilisée.
+- **Opérateurs de transfert :** Wave, My Nita ou Amanta lorsqu'une référence de transfert est fournie pour une vérification manuelle.
+- **Prestataires techniques :** hébergement, stockage, livraison ou maintenance, uniquement dans la mesure nécessaire à leur mission.
+
+Chaque prestataire est tenu de protéger les données qu'il traite et ne peut pas les utiliser pour une finalité indépendante non autorisée par Sahelink.
+
+## 5. Conservation et sécurité
+
+Les données sont conservées pendant la durée nécessaire à la fourniture du service, au suivi des commandes, à la résolution des litiges et au respect des obligations légales.
+
+Les données locales restent sur l'appareil jusqu'à leur suppression depuis l'application ou la désinstallation de celle-ci. Nous appliquons des contrôles d'accès, des règles de sécurité de base de données et des connexions chiffrées lorsque le service le permet. Aucun système ne garantit toutefois une sécurité absolue.
+
+## 6. Vos droits
+
+Selon la législation applicable, vous pouvez demander l'accès, la rectification, la suppression, la limitation ou l'opposition au traitement de vos données, ainsi qu'une copie des données que vous nous avez fournies.
+
+Écrivez à [linksahel@gmail.com](mailto:linksahel@gmail.com) en précisant votre demande et l'adresse e-mail du compte. Nous pouvons demander une vérification d'identité avant de traiter la demande.
+
+## 7. Enfants
+
+Sahelink n'est pas destinée aux enfants et ne cherche pas à collecter volontairement leurs données. Si vous pensez qu'un enfant nous a transmis des données, contactez-nous afin que nous puissions les supprimer lorsque cela est approprié.
+
+## 8. Modifications
+
+Nous pouvons mettre à jour cette politique pour refléter une évolution de l'application, des services ou de la réglementation. La date de mise à jour indiquée en haut de cette page sera modifiée en conséquence.
+
+**Contact :** [linksahel@gmail.com](mailto:linksahel@gmail.com)
